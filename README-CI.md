@@ -12,7 +12,7 @@ Containerization is a key aspect of modern software development practices. It al
 - **Docker**: Used for creating a containerized environment for the web application.
 - **GitHub**: For version control and storing the project's source code, Dockerfile, and documentation.
 - **Nginx/Apache**: Web servers used within the Docker container to serve the web application.
-- - **Lucidchart**: Utilized for designing and visualizing the architecture and workflow of the CI/CD pipeline, aiding in planning and communication of the project structure.
+- **Lucidchart**: Utilized for designing and visualizing the architecture and workflow of the CI/CD pipeline, aiding in planning and communication of the project structure.
 
 
 ## Run Project Locally
